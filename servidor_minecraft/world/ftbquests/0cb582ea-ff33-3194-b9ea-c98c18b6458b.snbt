@@ -8,5 +8,9 @@
 	started: { }
 	completed: { }
 	claimed_rewards: { }
-	player_data: { }
+	player_data: {
+		0cb582eaff333194b9eac98c18b6458b: {
+			can_edit: 1b
+		}
+	}
 }
