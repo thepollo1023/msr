@@ -2017,3 +2017,6 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [
   "X=&T-@LYucMp&) T@qID"
 ]
+[13Apr2025 23:35:54.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thepollo10: Set own game mode to Survival Mode]
+[13Apr2025 23:36:09.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thepollo10: Set own game mode to Creative Mode]
+[13Apr2025 23:36:24.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thepollo10: Set own game mode to Survival Mode]
