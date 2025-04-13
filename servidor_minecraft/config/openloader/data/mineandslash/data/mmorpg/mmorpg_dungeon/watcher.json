@@ -1,0 +1,48 @@
+{
+  "can_be_main": true,
+  "curved_hallways": [
+    "w_c_0",
+    "w_c_1",
+    "w_c_2",
+    "w_c_3"
+  ],
+  "ends": [
+    "w_e_0",
+    "w_e_1",
+    "w_e_2",
+    "w_e_3",
+	"w_e_4",
+	"w_e_5"
+  ],
+  "entrances": [
+    "w_e_0",
+    "w_entr_0"
+  ],
+  "four_ways": [
+    "w_4w_0",
+    "w_4w_1",
+    "w_4w_2"
+  ],
+  "id": "watcher",
+  "other_tileset": [],
+  "other_tileset_chance": 5.0,
+  "straight_hallways": [
+    "w_s_0",
+    "w_s_1",
+    "w_s_2",
+    "w_s_3"
+  ],
+  "tags": {
+    "tags": [
+	  "water",
+	  "illagers",
+	  "default"
+    ]
+  },
+  "triple_hallway": [
+    "w_3w_0",
+    "w_3w_1",
+    "w_3w_2"
+  ],
+  "weight": 2000
+}

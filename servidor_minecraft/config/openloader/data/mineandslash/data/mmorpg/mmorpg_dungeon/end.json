@@ -1,0 +1,47 @@
+{
+  "can_be_main": true,
+  "curved_hallways": [
+    "end_ch1",
+    "end_ch2",
+    "end_ch3",
+    "end_ch4"
+  ],
+  "ends": [
+    "end_e1",
+    "end_e2",
+    "end_e3",
+    "end_e4"
+  ],
+  "entrances": [
+    "end_enter"
+  ],
+  "four_ways": [
+    "end_fw1",
+    "end_fw2",
+    "end_fw3",
+    "end_fw4"
+  ],
+  "id": "end",
+  "other_tileset": [],
+  "other_tileset_chance": 5.0,
+  "straight_hallways": [
+    "end_sh1",
+    "end_sh2",
+    "end_sh3",
+    "end_sh4"
+  ],
+  "tags": {
+    "tags": [
+	  "default",
+	  "otherworldly"
+    ]
+  },
+  "triple_hallway": [
+    "end_th1",
+    "end_th2",
+    "end_th4",
+    "end_th4",
+    "end_th5"
+  ],
+  "weight": 2000
+}
