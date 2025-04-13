@@ -2524,3 +2524,46 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 ]
 [13Apr2025 21:37:58.978] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1481, l='ServerLevel[world]', x=1637.51, y=76.56, z=7092.43] died, message: 'Villager was killed'
 [13Apr2025 21:37:58.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thepollo10: Killed Villager]
+[13Apr2025 21:40:18.487] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Apr2025 21:40:18.487] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 272537
+}
+[13Apr2025 21:40:18.487] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 126 extra bytes: 
+[13Apr2025 21:40:18.487] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "2B!Jygo\"Rg320xZD&PBR]0hS|#Y<J]_VFopu-9_OrI0g,lQ"
+]
+[13Apr2025 21:40:18.487] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:StatusOnly  id 23 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Apr2025 21:40:18.488] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134118_": 0.0,
+  "f_134119_": 0.0,
+  "f_134120_": 0.0,
+  "f_134121_": 0.0,
+  "f_134122_": 0.0,
+  "f_134123_": true,
+  "f_134124_": false,
+  "f_134125_": false
+}
+[13Apr2025 21:40:18.488] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 23 data of 200 extra bytes: 
+[13Apr2025 21:40:18.488] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "2B!Jygo\"Rg320xZD&PBR]0hS|#Y<J]_VFopu-9_OrI0g,lQ)kK{7r$V1onLPFWLrB6j8I>6Ttth[5y"
+]
+[13Apr2025 21:40:18.905] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1482, l='ServerLevel[world]', x=1641.20, y=75.63, z=7103.50] died, message: 'Villager was killed'
+[13Apr2025 21:40:18.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thepollo10: Killed Villager]
+[13Apr2025 21:40:28.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thepollo10: Set own game mode to Spectator Mode]
+[13Apr2025 21:41:25.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thepollo10: Set own game mode to Creative Mode]
+[13Apr2025 21:46:08.691] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Apr2025 21:46:08.692] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1256
+}
+[13Apr2025 21:46:08.692] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 156 extra bytes: 
+[13Apr2025 21:46:08.692] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "}ROnTKDWWG b320qA.\"l7c6TqlU]S|#Y<J]_VFopu-9_OrI0g,lQL)kK{7r$V1onLP"
+]
+[13Apr2025 21:47:15.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thepollo10: Set own game mode to Spectator Mode]
+[13Apr2025 21:47:46.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thepollo10: Set own game mode to Creative Mode]
