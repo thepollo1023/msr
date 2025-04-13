@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "72e0901a3ea6375ebb864fcfab7ef7d3"
+	name: "Scorp6o436#72e0901a"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

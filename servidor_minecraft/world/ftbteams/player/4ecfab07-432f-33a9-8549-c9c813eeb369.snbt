@@ -1,0 +1,17 @@
+{
+	id: "4ecfab07-432f-33a9-8549-c9c813eeb369"
+	type: "player"
+	player_name: "Padre_cavos"
+	ranks: {
+		4ecfab07-432f-33a9-8549-c9c813eeb369: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Padre_cavos"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5976FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

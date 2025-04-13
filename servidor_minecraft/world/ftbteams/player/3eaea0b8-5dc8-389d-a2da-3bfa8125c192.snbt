@@ -1,0 +1,17 @@
+{
+	id: "3eaea0b8-5dc8-389d-a2da-3bfa8125c192"
+	type: "player"
+	player_name: "GaboxUltra"
+	ranks: {
+		3eaea0b8-5dc8-389d-a2da-3bfa8125c192: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "GaboxUltra"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59BEFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "3eaea0b8-5dc8-389d-a2da-3bfa8125c192",
+    "name": "GaboxUltra",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "0cb582ea-ff33-3194-b9ea-c98c18b6458b",
     "name": "Thepollo10",
     "level": 4,

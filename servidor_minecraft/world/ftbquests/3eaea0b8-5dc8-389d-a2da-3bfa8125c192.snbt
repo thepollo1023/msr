@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "3eaea0b85dc8389da2da3bfa8125c192"
+	name: "GaboxUltra#3eaea0b8"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "72e0901a-3ea6-375e-bb86-4fcfab7ef7d3"
+	type: "player"
+	player_name: "Scorp6o436"
+	ranks: {
+		72e0901a-3ea6-375e-bb86-4fcfab7ef7d3: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Scorp6o436"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59B7"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

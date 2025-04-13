@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "4ecfab07432f33a98549c9c813eeb369"
+	name: "Padre_cavos#4ecfab07"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
