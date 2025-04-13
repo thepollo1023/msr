@@ -2661,3 +2661,13 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [
   "]h;xg#5y5\\GP0320g%rLlV)"
 ]
+[13Apr2025 22:36:30.794] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Apr2025 22:36:30.795] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 14
+}
+[13Apr2025 22:36:30.795] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[13Apr2025 22:36:30.795] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "vHWY#XxZ GK&320Pv,_"
+]
