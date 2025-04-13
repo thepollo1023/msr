@@ -14321,3 +14321,40 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [
   "}Wlm9!}sr320+*7"
 ]
+[13Apr2025 21:29:41.968] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Apr2025 21:29:41.968] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 11
+}
+[13Apr2025 21:29:41.969] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 144 extra bytes: 
+[13Apr2025 21:29:41.969] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "aCD8]'3O7M320>LqRj8p\\8S|#Y<J]_VFopu-9_OrI0g,lQL)kK{7r$V"
+]
+[13Apr2025 21:30:15.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 21:30:15.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 21:31:15.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thepollo10: Set the time to 13000]
+[13Apr2025 21:31:19.015] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Apr2025 21:31:19.016] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 7943
+}
+[13Apr2025 21:31:19.016] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[13Apr2025 21:31:19.016] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "zZWG?(zq+~/E{320nrwyD_"
+]
+[13Apr2025 21:32:15.751] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Apr2025 21:32:15.751] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 69
+}
+[13Apr2025 21:32:15.751] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 102 extra bytes: 
+[13Apr2025 21:32:15.752] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ":XrZ<>V> d320Vt\"GBHwez$[PXS|#Y<J]_VFopu-9_"
+]
+[13Apr2025 21:35:15.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 21:35:15.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 21:37:58.978] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1481, l='ServerLevel[world]', x=1637.51, y=76.56, z=7092.43] died, message: 'Villager was killed'
+[13Apr2025 21:37:58.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thepollo10: Killed Villager]
