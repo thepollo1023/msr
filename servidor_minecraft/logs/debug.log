@@ -13830,3 +13830,27 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [13Apr2025 23:36:24.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thepollo10: Set own game mode to Survival Mode]
 [13Apr2025 23:38:00.269] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Apr2025 23:38:00.293] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 23:41:51.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thepollo10: Set own game mode to Creative Mode]
+[13Apr2025 23:43:00.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 23:43:00.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 23:43:00.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thepollo10 has made the advancement [Best Friends Forever]
+[13Apr2025 23:43:11.336] [Server thread/DEBUG] [mixin/]: Mixing ItemInputMixin from tombstone.mixins.json into net.minecraft.commands.arguments.item.ItemInput
+[13Apr2025 23:43:11.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thepollo10: Gave 16 [Arrow] to Thepollo10]
+[13Apr2025 23:43:13.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thepollo10: Gave 16 [Arrow] to Thepollo10]
+[13Apr2025 23:43:17.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thepollo10: Gave 16 [Arrow] to Thepollo10]
+[13Apr2025 23:43:19.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thepollo10: Gave 16 [Arrow] to Thepollo10]
+[13Apr2025 23:45:03.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thepollo10: Killed Spirit Wolf]
+[13Apr2025 23:45:08.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thepollo10: Killed Spirit Wolf]
+[13Apr2025 23:45:13.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thepollo10: Killed Spirit Wolf]
+[13Apr2025 23:48:00.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 23:48:00.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 23:50:07.409] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Apr2025 23:50:07.409] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 648197
+}
+[13Apr2025 23:50:07.409] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 65 extra bytes: 
+[13Apr2025 23:50:07.409] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "LY#?*7T/uYZBkv[320bv2]j}$Vv"
+]
