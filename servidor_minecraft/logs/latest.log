@@ -2623,3 +2623,23 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [
   "EYF3qF~9.zo&320H SXLh2ZjCS|#Y<J]_VFopu-9_OrI0g,"
 ]
+[14Apr2025 22:36:59.829] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[14Apr2025 22:36:59.829] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1822080
+}
+[14Apr2025 22:36:59.829] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 120 extra bytes: 
+[14Apr2025 22:36:59.829] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "m+b)AYF;a_il(320]P@:fS|#Y<J]_VFopu-9_OrI0g,"
+]
+[14Apr2025 22:37:59.247] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[14Apr2025 22:37:59.247] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 9410
+}
+[14Apr2025 22:37:59.248] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[14Apr2025 22:37:59.248] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "~F+;L!#(o}SfFT320'n0"
+]

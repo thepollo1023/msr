@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "empezemos"
-	group: "0D2A29DA77E0DFB9"
+	group: ""
 	icon: {
 		Count: 1
 		id: "minecraft:iron_sword"
@@ -92,8 +92,8 @@
 				id: "5EB256A3248318F1"
 				type: "advancement"
 			}]
-			x: 3.5d
-			y: -2.0d
+			x: 0.5d
+			y: -3.0d
 		}
 		{
 			id: "1AF04FCC4450F9FC"
@@ -108,8 +108,8 @@
 				title: "Pan"
 				type: "checkmark"
 			}]
-			x: -2.5d
-			y: -2.0d
+			x: 0.5d
+			y: -1.0d
 		}
 	]
 	title: "Empezemos"

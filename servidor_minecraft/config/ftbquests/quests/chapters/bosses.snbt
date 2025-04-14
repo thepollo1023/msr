@@ -2,19 +2,13 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "bosses"
-	group: "0D2A29DA77E0DFB9"
+	group: ""
 	id: "3656F9AA92B12BC2"
 	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
 			id: "70BD31E87B266622"
-			rewards: [{
-				count: 10
-				id: "4B5E6F0CB9FBD747"
-				item: "goldcoins:dedita_azul"
-				type: "item"
-			}]
 			tasks: [{
 				advancement: "mowziesmobs:kill_ferrous_wroughtnaut"
 				criterion: ""
@@ -26,12 +20,6 @@
 		}
 		{
 			id: "4828165CAE62DD7C"
-			rewards: [{
-				count: 10
-				id: "40798E27D9372503"
-				item: "goldcoins:dedita_azul"
-				type: "item"
-			}]
 			tasks: [{
 				advancement: "mowziesmobs:kill_frostmaw"
 				criterion: ""
@@ -44,12 +32,6 @@
 		{
 			icon: "mowziesmobs:sol_visage"
 			id: "608B1A313F6B57CC"
-			rewards: [{
-				count: 16
-				id: "7EE8732C2E439E3A"
-				item: "goldcoins:dedita_azul"
-				type: "item"
-			}]
 			tasks: [{
 				advancement: "mowziesmobs:kill_umvuthi"
 				criterion: ""
@@ -61,12 +43,6 @@
 		}
 		{
 			id: "74962F59119B5EDF"
-			rewards: [{
-				count: 16
-				id: "1B091C4B78B0E464"
-				item: "goldcoins:dedita_azul"
-				type: "item"
-			}]
 			tasks: [{
 				advancement: "cataclysm:kill_monstrosity"
 				criterion: ""
@@ -95,12 +71,6 @@
 		}
 		{
 			id: "7968006B912F562F"
-			rewards: [{
-				count: 16
-				id: "6B405CC66091CE8C"
-				item: "goldcoins:dedita_azul"
-				type: "item"
-			}]
 			tasks: [{
 				advancement: "cataclysm:kill_leviathan"
 				criterion: ""
@@ -112,12 +82,6 @@
 		}
 		{
 			id: "47F396F766948886"
-			rewards: [{
-				count: 16
-				id: "0B5CDEFAA6DD3E2B"
-				item: "goldcoins:dedita_azul"
-				type: "item"
-			}]
 			tasks: [{
 				advancement: "cataclysm:kill_maledictus"
 				criterion: ""
@@ -129,12 +93,6 @@
 		}
 		{
 			id: "7855B75A86222008"
-			rewards: [{
-				count: 16
-				id: "2F6AD5BB9A90F79B"
-				item: "goldcoins:dedita_azul"
-				type: "item"
-			}]
 			tasks: [{
 				advancement: "cataclysm:kill_harbinger"
 				criterion: ""
@@ -163,12 +121,6 @@
 		}
 		{
 			id: "653FBB667996F0AD"
-			rewards: [{
-				count: 16
-				id: "40FB08D8349DA3F5"
-				item: "goldcoins:dedita_azul"
-				type: "item"
-			}]
 			tasks: [{
 				advancement: "legendary_monsters:defeat_endersent"
 				criterion: ""
@@ -197,12 +149,6 @@
 		}
 		{
 			id: "79BA121B3B941B06"
-			rewards: [{
-				count: 16
-				id: "0083846C0BE23627"
-				item: "goldcoins:dedita_azul"
-				type: "item"
-			}]
 			tasks: [{
 				advancement: "legendary_monsters:defeat_frostbitten_golem"
 				criterion: ""
@@ -214,12 +160,6 @@
 		}
 		{
 			id: "429D6BC102C6DF84"
-			rewards: [{
-				count: 16
-				id: "1A6204C1F27E0057"
-				item: "goldcoins:dedita_azul"
-				type: "item"
-			}]
 			tasks: [{
 				advancement: "legendary_monsters:defeat_posessed_paladin"
 				criterion: ""
@@ -231,12 +171,6 @@
 		}
 		{
 			id: "20DE735F842655D0"
-			rewards: [{
-				count: 16
-				id: "168D1DAAAD6CA814"
-				item: "goldcoins:dedita_azul"
-				type: "item"
-			}]
 			tasks: [{
 				advancement: "legendary_monsters:defeat_dune_sentinel"
 				criterion: ""
@@ -248,12 +182,6 @@
 		}
 		{
 			id: "18BD2E2E5D112121"
-			rewards: [{
-				count: 16
-				id: "695F610C6DA96F15"
-				item: "goldcoins:dedita_azul"
-				type: "item"
-			}]
 			tasks: [{
 				advancement: "legendary_monsters:defeat_overgrown_colossus"
 				criterion: ""

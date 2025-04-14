@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "mobs_raros"
-	group: "0D2A29DA77E0DFB9"
+	group: ""
 	icon: "born_in_chaos_v1:lifestealer_skull"
 	id: "0F472D72BC18422F"
 	order_index: 2
