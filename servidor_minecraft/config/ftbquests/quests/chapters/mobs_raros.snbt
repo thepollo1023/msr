@@ -1,0 +1,309 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mobs_raros"
+	group: "0D2A29DA77E0DFB9"
+	icon: "born_in_chaos_v1:lifestealer_skull"
+	id: "0F472D72BC18422F"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			icon: {
+				Count: 1
+				id: "born_in_chaos_v1:skullbreaker_hammer"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "72133D963B6AAF5C"
+			rewards: [{
+				count: 3
+				id: "182E9AE06592F43E"
+				item: "goldcoins:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "born_in_chaos_v1:zombie_bruiser"
+				id: "0A03935D87705D8C"
+				type: "kill"
+				value: 5L
+			}]
+			x: -5.5d
+			y: -0.5d
+		}
+		{
+			id: "62DDC5FCA2480ED1"
+			rewards: [{
+				count: 3
+				id: "330779C6C4E1E6A7"
+				item: "goldcoins:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "mowziesmobs:umvuthana"
+				icon: {
+					Count: 1
+					id: "mowziesmobs:umvuthana_mask_fury"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "029174E1E826898A"
+				type: "kill"
+				value: 5L
+			}]
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			id: "78923D7AED9495B6"
+			rewards: [{
+				count: 6
+				id: "17613FAF54EFB9BA"
+				item: "goldcoins:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "born_in_chaos_v1:skeleton_thrasher"
+				icon: "born_in_chaos_v1:shattered_skull"
+				id: "28E100110620F75C"
+				type: "kill"
+				value: 5L
+			}]
+			x: -5.5d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			icon: "born_in_chaos_v1:death_totem"
+			id: "00A2F02519F30B34"
+			rewards: [{
+				count: 5
+				id: "5809662EF130D5B2"
+				item: "goldcoins:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "born_in_chaos_v1:bonescaller"
+				icon: "born_in_chaos_v1:bonescaller_spawn_egg"
+				id: "56FD6218FB5792A4"
+				type: "kill"
+				value: 5L
+			}]
+			x: -6.5d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			id: "60299F6B0BB666EE"
+			rewards: [{
+				count: 3
+				id: "56527C8CBBC95B9A"
+				item: "goldcoins:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "warriorsofpastepoch:skeleton_musketeer"
+				icon: {
+					Count: 1
+					id: "warriorsofpastepoch:musket"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "2533AD6AE383BE90"
+				type: "kill"
+				value: 5L
+			}]
+			x: -4.5d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			id: "7A3BA3F36AB4DA15"
+			rewards: [{
+				count: 3
+				id: "4E55451F5ECE0800"
+				item: "goldcoins:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "born_in_chaos_v1:zombie_clown"
+				icon: "born_in_chaos_v1:intoxicating_decoction"
+				id: "6CC2B6B2B87F8F53"
+				type: "kill"
+				value: 5L
+			}]
+			x: -6.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			id: "595B86A95020656B"
+			rewards: [{
+				count: 6
+				id: "7E189F28895F0394"
+				item: "goldcoins:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "born_in_chaos_v1:nightmare_stalker"
+				icon: "born_in_chaos_v1:nightmare_stalker_skull"
+				id: "0C89F14D7987C9AC"
+				type: "kill"
+				value: 3L
+			}]
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			id: "357D136FE9B0FADA"
+			rewards: [{
+				count: 3
+				id: "1C75AF2D18D7293E"
+				item: "goldcoins:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "born_in_chaos_v1:mother_spider"
+				icon: "born_in_chaos_v1:spider_mandible"
+				id: "658B41153C87BB1F"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.5d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			id: "46FBE0BB2CD584D4"
+			rewards: [{
+				count: 4
+				id: "0FF2EA350112E9C5"
+				item: "goldcoins:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "born_in_chaos_v1:supreme_bonescaller"
+				icon: {
+					Count: 1
+					id: "born_in_chaos_v1:staff_of_magic_arrows"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "0A2873B23EAA7A90"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			id: "037FDB4EC61BF96E"
+			rewards: [{
+				count: 4
+				id: "1498E6419AEE51AD"
+				item: "goldcoins:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "born_in_chaos_v1:door_knight"
+				icon: "born_in_chaos_v1:mesh_door"
+				id: "250C6AC94ED6ADF2"
+				type: "kill"
+				value: 3L
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			id: "7E0E0CC068D2CE7B"
+			rewards: [{
+				count: 3
+				id: "1152AB077B8F18B3"
+				item: "goldcoins:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "born_in_chaos_v1:fallen_chaos_knight"
+				icon: {
+					Count: 1
+					id: "born_in_chaos_v1:dark_metal_armor_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "0B82940E03BB9C8F"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			id: "6E91EB067CC34E85"
+			rewards: [{
+				count: 3
+				id: "1E808096B1D7F757"
+				item: "goldcoins:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "born_in_chaos_v1:dire_hound_leader"
+				icon: "born_in_chaos_v1:fangofthe_hound_leader"
+				id: "732BF6B50A2A3BA3"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			id: "7B93CF32C7F1186F"
+			rewards: [{
+				count: 3
+				id: "16D5CD4F2E8C3F1B"
+				item: "goldcoins:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "mowziesmobs:naga"
+				icon: "mowziesmobs:naga_fang"
+				id: "0F911915F4E69A29"
+				type: "kill"
+				value: 1L
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			id: "2B17E6440C386B59"
+			rewards: [{
+				count: 6
+				id: "2F54AFB2566FA2C8"
+				item: "goldcoins:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "born_in_chaos_v1:lifestealer"
+				icon: "born_in_chaos_v1:lifestealer_skull"
+				id: "431F6858B6DEF01A"
+				type: "kill"
+				value: 1L
+			}]
+			x: -7.5d
+			y: -0.5d
+		}
+	]
+	title: "&4Mobs Raros"
+}

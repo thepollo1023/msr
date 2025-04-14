@@ -1,0 +1,116 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "empezemos"
+	group: "0D2A29DA77E0DFB9"
+	icon: {
+		Count: 1
+		id: "minecraft:iron_sword"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "600B6655A329B0B9"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "69A683F2B92FA5A2"
+			rewards: [{
+				count: 2
+				id: "3394327C524CDB15"
+				item: "goldcoins:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:story/mine_diamond"
+				criterion: ""
+				id: "57690CC8E7DE3609"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			id: "59A9CC902713C341"
+			rewards: [{
+				id: "61054E3FD7C534F0"
+				item: "goldcoins:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:story/obtain_armor"
+				criterion: ""
+				icon: {
+					Count: 1
+					id: "minecraft:iron_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "08D0940514339ACD"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			id: "32C49381ABF7BABC"
+			rewards: [{
+				count: 8
+				id: "08CB8E28D7AC679B"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:story/smelt_iron"
+				criterion: ""
+				id: "5025A6357CBA45C8"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			id: "572B636D94CC1B83"
+			rewards: [{
+				count: 5
+				id: "77A8B9051D2ED332"
+				item: "goldcoins:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:story/shiny_gear"
+				criterion: ""
+				icon: {
+					Count: 1
+					id: "minecraft:diamond_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "5EB256A3248318F1"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			id: "1AF04FCC4450F9FC"
+			rewards: [{
+				count: 32
+				id: "486AEE142E451014"
+				item: "minecraft:bread"
+				type: "item"
+			}]
+			tasks: [{
+				id: "72605E9AB1CB10CC"
+				title: "Pan"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: -2.0d
+		}
+	]
+	title: "Empezemos"
+}

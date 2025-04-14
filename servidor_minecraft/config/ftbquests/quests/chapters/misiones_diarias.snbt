@@ -1,0 +1,37 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "misiones_diarias"
+	group: ""
+	icon: "minecraft:grass_block"
+	id: "56EF338F6D5A2304"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		description: ["&eEntra a la zona de abejas"]
+		id: "648440D84DABB666"
+		rewards: [{
+			count: 5
+			id: "1B6797A0A89B887B"
+			item: "goldcoins:dedita_azul"
+			type: "item"
+		}]
+		size: 2.0d
+		tasks: [{
+			dimension: "the_bumblezone:the_bumblezone"
+			icon: {
+				Count: 1
+				id: "the_bumblezone:stingless_bee_helmet_1"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "15F5914DA966B263"
+			title: "La zona de abejas"
+			type: "dimension"
+		}]
+		x: 2.5d
+		y: 1.5d
+	}]
+	title: "Misiones diarias"
+}

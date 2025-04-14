@@ -431,13 +431,13 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
+  "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
-      "tamed_animal": "2025-04-13 23:43:00 +0000"
+      "coded_trigger": "2025-04-13 23:22:25 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/neighborhood_brawl": {
+  "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-04-13 23:22:25 +0000"
     },
@@ -449,9 +449,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/first_knowledge": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "coded_trigger": "2025-04-13 23:22:25 +0000"
+      "tamed_animal": "2025-04-13 23:43:00 +0000"
     },
     "done": true
   },
