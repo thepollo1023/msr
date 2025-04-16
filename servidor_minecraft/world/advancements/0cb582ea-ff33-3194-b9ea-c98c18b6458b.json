@@ -455,5 +455,23 @@
     },
     "done": true
   },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-04-14 22:59:09 +0000"
+    },
+    "done": true
+  },
+  "the_pillager_legion_:achiv_get_axe_tpl": {
+    "criteria": {
+      "achiv_get_axe_tpl_0": "2025-04-14 23:13:45 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-04-14 23:15:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

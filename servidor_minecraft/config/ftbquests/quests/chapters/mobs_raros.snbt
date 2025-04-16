@@ -21,7 +21,7 @@
 			rewards: [{
 				count: 3
 				id: "182E9AE06592F43E"
-				item: "goldcoins:dedita_azul"
+				item: "goldcoins:dedita_naranja"
 				type: "item"
 			}]
 			tasks: [{
@@ -38,7 +38,7 @@
 			rewards: [{
 				count: 3
 				id: "330779C6C4E1E6A7"
-				item: "goldcoins:dedita_azul"
+				item: "goldcoins:dedita_naranja"
 				type: "item"
 			}]
 			tasks: [{
@@ -63,7 +63,7 @@
 			rewards: [{
 				count: 6
 				id: "17613FAF54EFB9BA"
-				item: "goldcoins:dedita_azul"
+				item: "goldcoins:dedita_naranja"
 				type: "item"
 			}]
 			tasks: [{
@@ -83,7 +83,7 @@
 			rewards: [{
 				count: 5
 				id: "5809662EF130D5B2"
-				item: "goldcoins:dedita_azul"
+				item: "goldcoins:dedita_naranja"
 				type: "item"
 			}]
 			tasks: [{
@@ -102,7 +102,7 @@
 			rewards: [{
 				count: 3
 				id: "56527C8CBBC95B9A"
-				item: "goldcoins:dedita_azul"
+				item: "goldcoins:dedita_naranja"
 				type: "item"
 			}]
 			tasks: [{
@@ -127,7 +127,7 @@
 			rewards: [{
 				count: 3
 				id: "4E55451F5ECE0800"
-				item: "goldcoins:dedita_azul"
+				item: "goldcoins:dedita_naranja"
 				type: "item"
 			}]
 			tasks: [{
@@ -146,7 +146,7 @@
 			rewards: [{
 				count: 6
 				id: "7E189F28895F0394"
-				item: "goldcoins:dedita_azul"
+				item: "goldcoins:dedita_naranja"
 				type: "item"
 			}]
 			tasks: [{
@@ -165,7 +165,7 @@
 			rewards: [{
 				count: 3
 				id: "1C75AF2D18D7293E"
-				item: "goldcoins:dedita_azul"
+				item: "goldcoins:dedita_naranja"
 				type: "item"
 			}]
 			tasks: [{
@@ -184,7 +184,7 @@
 			rewards: [{
 				count: 4
 				id: "0FF2EA350112E9C5"
-				item: "goldcoins:dedita_azul"
+				item: "goldcoins:dedita_naranja"
 				type: "item"
 			}]
 			tasks: [{
@@ -209,7 +209,7 @@
 			rewards: [{
 				count: 4
 				id: "1498E6419AEE51AD"
-				item: "goldcoins:dedita_azul"
+				item: "goldcoins:dedita_naranja"
 				type: "item"
 			}]
 			tasks: [{
@@ -228,7 +228,7 @@
 			rewards: [{
 				count: 3
 				id: "1152AB077B8F18B3"
-				item: "goldcoins:dedita_azul"
+				item: "goldcoins:dedita_naranja"
 				type: "item"
 			}]
 			tasks: [{
@@ -253,7 +253,7 @@
 			rewards: [{
 				count: 3
 				id: "1E808096B1D7F757"
-				item: "goldcoins:dedita_azul"
+				item: "goldcoins:dedita_naranja"
 				type: "item"
 			}]
 			tasks: [{
@@ -272,7 +272,7 @@
 			rewards: [{
 				count: 3
 				id: "16D5CD4F2E8C3F1B"
-				item: "goldcoins:dedita_azul"
+				item: "goldcoins:dedita_naranja"
 				type: "item"
 			}]
 			tasks: [{
@@ -291,7 +291,7 @@
 			rewards: [{
 				count: 6
 				id: "2F54AFB2566FA2C8"
-				item: "goldcoins:dedita_azul"
+				item: "goldcoins:dedita_naranja"
 				type: "item"
 			}]
 			tasks: [{

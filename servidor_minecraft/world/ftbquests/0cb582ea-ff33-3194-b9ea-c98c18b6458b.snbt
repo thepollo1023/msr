@@ -4,9 +4,19 @@
 	name: "Thepollo10#0cb582ea"
 	lock: false
 	rewards_blocked: false
-	task_progress: { }
-	started: { }
-	completed: { }
+	task_progress: {
+		72605E9AB1CB10CC: 1
+	}
+	started: {
+		1AF04FCC4450F9FC: 1744670371874L
+		600B6655A329B0B9: 1744670371874L
+		0000000000000001: 1744670371874L
+		72605E9AB1CB10CC: 1744670371874L
+	}
+	completed: {
+		1AF04FCC4450F9FC: 1744670371878L
+		72605E9AB1CB10CC: 1744670371878L
+	}
 	claimed_rewards: { }
 	player_data: {
 		0cb582eaff333194b9eac98c18b6458b: {

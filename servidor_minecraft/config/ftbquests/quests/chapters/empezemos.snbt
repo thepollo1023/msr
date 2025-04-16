@@ -96,18 +96,26 @@
 			y: -3.0d
 		}
 		{
+			icon: {
+				Count: 1
+				id: "born_in_chaos_v1:sharpened_dark_metal_sword"
+				tag: {
+					Damage: 0
+				}
+			}
 			id: "1AF04FCC4450F9FC"
 			rewards: [{
-				count: 32
-				id: "486AEE142E451014"
-				item: "minecraft:bread"
-				type: "item"
+				exclude_from_claim_all: true
+				id: "462499D53773EA61"
+				table_id: 405550839613976496L
+				type: "choice"
 			}]
 			tasks: [{
 				id: "72605E9AB1CB10CC"
 				title: "Pan"
 				type: "checkmark"
 			}]
+			title: "Elije tu arma"
 			x: 0.5d
 			y: -1.0d
 		}
