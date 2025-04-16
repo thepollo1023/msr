@@ -85,6 +85,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-04-16 19:14:41 +0000",
       "minecraft:plains": "2025-04-13 02:30:15 +0000"
     },
     "done": false
@@ -220,6 +221,18 @@
       "coded_trigger": "2025-04-16 18:56:11 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "prairie": "2025-04-16 19:11:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "prairie": "2025-04-16 19:11:55 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

@@ -14312,3 +14312,64 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [16Apr2025 19:13:03.557] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:pillager_fortress/pillager_fortress5
 [16Apr2025 19:13:03.581] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:pillager_fortress/pillager_fortress6
 [16Apr2025 19:13:03.589] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:pillager_fortress/pillager_fortress8
+[16Apr2025 19:13:57.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GaboxUltra moved too quickly! 8.386595391234096,-5.0627646802300035,-2.8829422570897805
+[16Apr2025 19:15:03.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 19:15:03.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 19:15:12.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thepollo10> ass
+[16Apr2025 19:15:21.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GaboxUltra moved too quickly! -5.922340855108359,-5.134180206182506,6.482356091446491
+[16Apr2025 19:15:46.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GaboxUltra moved too quickly! -7.9467912959489695,0.0,6.202127125930019
+[16Apr2025 19:15:55.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GaboxUltra> Posho
+[16Apr2025 19:16:06.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GaboxUltra> Se puede poner como un boost de xp?
+[16Apr2025 19:16:18.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thepollo10> hmm
+[16Apr2025 19:16:23.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thepollo10> nose
+[16Apr2025 19:16:24.286] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Apr2025 19:16:24.286] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 62
+}
+[16Apr2025 19:16:24.287] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[16Apr2025 19:16:24.287] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "/vY;wE_T[/FQ304.VK7"
+]
+[16Apr2025 19:17:22.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GaboxUltra moved too quickly! 4.623921319036981,0.0,-9.239053673929448
+[16Apr2025 19:17:44.428] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Apr2025 19:17:44.428] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 11274
+}
+[16Apr2025 19:17:44.428] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 61 extra bytes: 
+[16Apr2025 19:17:44.429] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "1}S_QQu5\\B320k+P`(q67"
+]
+[16Apr2025 19:18:25.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thepollo10> es bueno lo del boost
+[16Apr2025 19:18:50.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GaboxUltra moved too quickly! -9.542596732310813,0.0,-3.3963609799729966
+[16Apr2025 19:19:20.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thepollo10> si no esta este para dar xp
+[16Apr2025 19:19:23.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thepollo10> en misiones
+[16Apr2025 19:19:24.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thepollo10> auto: "enabled"command: "/mine_and_slash give exp @p 125"elevate_perms: trueicon: "ftb_ph:exp"id: "72B420BFEB4D2F50"silent: truetitle: "125 Experience"type: "command"
+[16Apr2025 19:19:38.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GaboxUltra: Set the time to 13000]
+[16Apr2025 19:19:49.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GaboxUltra> a
+[16Apr2025 19:20:03.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 19:20:03.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 19:20:06.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GaboxUltra moved too quickly! 0.5086235914689041,0.0,10.028912415843479
+[16Apr2025 19:20:26.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GaboxUltra moved too quickly! 8.900532247510455,1.784527148425127,-4.507110015591934
+[16Apr2025 19:20:47.382] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Apr2025 19:20:47.382] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 104
+}
+[16Apr2025 19:20:47.382] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 57 extra bytes: 
+[16Apr2025 19:20:47.383] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "O%(6i?ZO^myi;320<WW2<KdDX"
+]
+[16Apr2025 19:20:54.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thepollo10> creo que no hay potenciador
+[16Apr2025 19:21:25.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GaboxUltra> F
+[16Apr2025 19:21:31.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GaboxUltra moved too quickly! 3.259926815544304,-2.2873692188688466,-9.183117597353885
+[16Apr2025 19:21:48.480] [Server thread/INFO] [Easy NPC/]: Opening menu 351ca6b4-db2e-40a8-9019-3e6fe1f07e64 for npc a2375b3b-062e-4475-ae55-e5326bb4300b and player ServerPlayer['GaboxUltra'/1921, l='ServerLevel[world]', x=1693.60, y=78.00, z=7005.20] with DialogMenuHandler{displayName=literal{Herrero}[style={color=#808080}]}
+[16Apr2025 19:22:06.529] [Server thread/INFO] [Easy NPC/]: Opening menu 1dfc0e6f-994c-4ce2-878a-d5e1d9d7bc64 for npc a2375b3b-062e-4475-ae55-e5326bb4300b and player ServerPlayer['GaboxUltra'/1921, l='ServerLevel[world]', x=1693.60, y=78.00, z=7005.20] with DialogMenuHandler{displayName=literal{Herrero}[style={color=#808080}]}
+[16Apr2025 19:22:15.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GaboxUltra> No hace nd
+[16Apr2025 19:22:31.232] [Server thread/INFO] [Easy NPC/]: Opening menu 1e0b9939-ec6d-44c6-80fc-180d881a3c1e for npc a2375b3b-062e-4475-ae55-e5326bb4300b and player ServerPlayer['Thepollo10'/6137, l='ServerLevel[world]', x=1692.27, y=78.00, z=7005.78] with DialogMenuHandler{displayName=literal{Herrero}[style={color=#808080}]}
+[16Apr2025 19:22:34.973] [Server thread/INFO] [Easy NPC/]: Opening menu d466068d-a031-4aee-afd6-7211b809d69d for npc a2375b3b-062e-4475-ae55-e5326bb4300b and player ServerPlayer['Thepollo10'/6137, l='ServerLevel[world]', x=1692.27, y=78.00, z=7005.78] with DialogMenuHandler{displayName=literal{Herrero}[style={color=#808080}]}
+[16Apr2025 19:22:45.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thepollo10> m,e falta poner los tradeaos
