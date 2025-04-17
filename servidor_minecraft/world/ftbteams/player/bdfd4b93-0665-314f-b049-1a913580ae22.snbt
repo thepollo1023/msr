@@ -1,0 +1,17 @@
+{
+	id: "bdfd4b93-0665-314f-b049-1a913580ae22"
+	type: "player"
+	player_name: "watybtw"
+	ranks: {
+		bdfd4b93-0665-314f-b049-1a913580ae22: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "watybtw"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFF159"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

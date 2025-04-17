@@ -1,0 +1,17 @@
+{
+	id: "34256793-ca8b-3bcc-816c-370a9163211b"
+	type: "player"
+	player_name: "Rodrigo_Reyes"
+	ranks: {
+		34256793-ca8b-3bcc-816c-370a9163211b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Rodrigo_Reyes"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFC3"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

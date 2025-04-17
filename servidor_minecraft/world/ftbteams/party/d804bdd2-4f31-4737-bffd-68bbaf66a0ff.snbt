@@ -1,0 +1,22 @@
+{
+	id: "d804bdd2-4f31-4737-bffd-68bbaf66a0ff"
+	type: "party"
+	owner: "3eaea0b8-5dc8-389d-a2da-3bfa8125c192"
+	ranks: {
+		3eaea0b8-5dc8-389d-a2da-3bfa8125c192: "owner"
+		72e0901a-3ea6-375e-bb86-4fcfab7ef7d3: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "SexTeam"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59BEFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1744843465151L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"GaboxUltra\"}]}" }
+		{ from: "3eaea0b8-5dc8-389d-a2da-3bfa8125c192", date: 1744843474700L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Scorp6o436\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1744843480250L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Scorp6o436\"}]}" }
+	]
+	extra: { }
+}

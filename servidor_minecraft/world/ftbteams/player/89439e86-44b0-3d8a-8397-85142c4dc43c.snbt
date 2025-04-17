@@ -1,0 +1,17 @@
+{
+	id: "89439e86-44b0-3d8a-8397-85142c4dc43c"
+	type: "player"
+	player_name: "Ziroh1"
+	ranks: {
+		89439e86-44b0-3d8a-8397-85142c4dc43c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Ziroh1"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59E1"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

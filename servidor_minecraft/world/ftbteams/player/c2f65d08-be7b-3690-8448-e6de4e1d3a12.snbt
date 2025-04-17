@@ -1,0 +1,17 @@
+{
+	id: "c2f65d08-be7b-3690-8448-e6de4e1d3a12"
+	type: "player"
+	player_name: "awaconqueso132"
+	ranks: {
+		c2f65d08-be7b-3690-8448-e6de4e1d3a12: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "awaconqueso132"
+		"ftbteams:description": ""
+		"ftbteams:color": "#B2FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

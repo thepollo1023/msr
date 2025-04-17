@@ -1,0 +1,17 @@
+{
+	id: "95874433-b680-3b37-828f-a4209437cdbe"
+	type: "player"
+	player_name: "Sanstastic0"
+	ranks: {
+		95874433-b680-3b37-828f-a4209437cdbe: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Sanstastic0"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C259FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

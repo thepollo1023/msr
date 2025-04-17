@@ -2,9 +2,7 @@
 	id: "3eaea0b8-5dc8-389d-a2da-3bfa8125c192"
 	type: "player"
 	player_name: "GaboxUltra"
-	ranks: {
-		3eaea0b8-5dc8-389d-a2da-3bfa8125c192: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "GaboxUltra"
 		"ftbteams:description": ""

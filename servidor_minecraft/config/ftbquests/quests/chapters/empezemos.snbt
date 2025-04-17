@@ -119,6 +119,36 @@
 			x: 0.5d
 			y: -1.0d
 		}
+		{
+			description: ["&aEs importante tener comida y espacio"]
+			id: "38053F084AC15CE9"
+			rewards: [
+				{
+					id: "2BEA900697CD132C"
+					item: "sophisticatedbackpacks:backpack"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4F4CD2A64BFFF371"
+					item: "goldcoins:dedita_naranja"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "181863FC8954C8CD"
+					item: "minecraft:bread"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4DBDA2C97235DFD0"
+				title: "Leer"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
 	]
 	title: "Empezemos"
 }
